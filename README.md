@@ -1,5 +1,5 @@
 # EduKretor
-this project original idea from Risky Tambarta
+this project original idea from Risky Tambarta ( telegram @riskytambarta )
 
 # Workflow Edukretor (MVP Learn-to-Earn Platform)
 
