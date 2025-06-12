@@ -21,6 +21,11 @@
 - **Pembelajaran Berjenjang**: Susun materi secara bertahap dari level pemula hingga lanjutan untuk mendukung penguasaan keterampilan.
 - **Kolaborasi dengan Institusi Pendidikan**: Tawarkan kursus atau materi hasil kerja sama dengan institusi pendidikan atau lembaga sertifikasi.
 - **Feedback dan Iterasi**: Kumpulkan umpan balik dari pengguna untuk terus menyempurnakan konten pembelajaran.
+- **Benefit Bagi Penyedia Konten**: 
+  - **Fee Langsung**: Penyedia konten mendapatkan bayaran langsung setelah pengguna membeli kursus mereka.
+  - **Reward Promosi**: Berikan highlight atau penempatan khusus pada kursus tertentu sebagai bentuk promosi.
+  - **Bonus EduCoin**: Insentif tambahan berupa EduCoin untuk penyedia konten yang performa kursusnya sangat baik.
+  - **Akses Statistik**: Penyedia konten mendapatkan laporan statistik performa untuk meningkatkan kualitas kursus mereka.
 
 ## Bagaimana Strategi Penetrasi ke Pengguna?
 - **Promosi Media Sosial**: Manfaatkan platform seperti Instagram, Twitter, dan LinkedIn untuk mempromosikan platform dan konten pembelajaran.
